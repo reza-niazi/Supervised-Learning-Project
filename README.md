@@ -1,2 +1,2 @@
 # Supervised-Learning-Project
-Supervised Learning Project Involving COVID-19 Data
+This was a partnered project that was done in a Machine Learning course over Supervised Learning. In this project, we used Elastic Net Regression in order to to predict the number of deaths per day on a state and national level. In addition, a Neural Network approach to binary classification is used to determine whether the 7-day average number of new cases in the US would increase or decrease in the next week based on the current week's daily new case numbers. We wrote the code for these machine learning techniques from scratch, and so did not use libraries in order to produce our results. Refer to the project report (COVID19.pdf) for full deatails. 
